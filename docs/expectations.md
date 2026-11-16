@@ -1,7 +1,7 @@
 # Group Expectations
 
 ## Meetings
-- We will meet weekly at ___
+- We will meet weekly at Monday, from 5-6 pm.
 - Members should attend meetings and communicate scheduling conflicts in advance.
 
 ## Time Commitment
